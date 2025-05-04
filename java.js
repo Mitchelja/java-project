@@ -61,7 +61,7 @@ const computerSelection = getComputerChoice();
 
 playRound(humanSelection, computerSelection);
 
-function playGame(){
+/*function playGame(){
    
     for (let i = 0; i < 5; i++) {
         const humanSelection = getHumanChoice();
@@ -83,6 +83,6 @@ function playGame(){
     } else {
         console.log("It's a tie!");
     }
-}
+} */
 
 
